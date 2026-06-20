@@ -1,6 +1,6 @@
 # To-Do-list-
 here we will create a to do list web app
-# 📝 To-Do List App
+# to-Do List App
 
 A simple and user-friendly To-Do List application built with **Streamlit** and **Supabase**. The application allows users to manage their daily tasks efficiently by adding, viewing, and deleting tasks in real time.
 
@@ -29,7 +29,7 @@ A simple and user-friendly To-Do List application built with **Streamlit** and *
 
 ## Live Demo
 
-[Live Demo Link Here]
+https://to-do-list-web-app.streamlit.app/
 
 
 ## Future Enhancements
